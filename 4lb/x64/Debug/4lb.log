@@ -1,0 +1,11 @@
+﻿  Assembling funcasm.asm...
+funcasm.asm(1): error A2008: syntax error : .
+funcasm.asm(2): error A2008: syntax error : .
+funcasm.asm(13): error A2070: invalid instruction operands
+funcasm.asm(16): error A2070: invalid instruction operands
+funcasm.asm(17): error A2070: invalid instruction operands
+funcasm.asm(18): error A2070: invalid instruction operands
+funcasm.asm(36): error A2070: invalid instruction operands
+funcasm.asm(22): error A2202: illegal use of segment register
+funcasm.asm(55): warning A6004: procedure argument or local not referenced : C
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\funcasm.obj" /W3 /errorReport:prompt  /Tafuncasm.asm" с кодом "1".

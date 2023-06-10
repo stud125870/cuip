@@ -1,0 +1,4 @@
+﻿  MDLL.cpp
+C:\Users\V-Vol\source\repos\MDLL\MDLL\MDLL.cpp(9,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     Создается библиотека C:\Users\V-Vol\source\repos\MDLL\x64\Debug\MDLL.lib и объект C:\Users\V-Vol\source\repos\MDLL\x64\Debug\MDLL.exp
+  MDLL.vcxproj -> C:\Users\V-Vol\source\repos\MDLL\x64\Debug\MDLL.dll

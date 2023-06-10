@@ -1,0 +1,9 @@
+﻿  Assembling funcasm.asm...
+  4lb.cpp
+C:\Users\79229\Desktop\ЦУиМП земцов\4lb\4lb.cpp(26,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79229\Desktop\ЦУиМП земцов\4lb\4lb.cpp(27,12): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\79229\Desktop\ЦУиМП земцов\4lb\Source.cpp(5,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\79229\Desktop\ЦУиМП земцов\4lb\Debug\4lb.exe при последней инкрементной компоновке; выполняется полная компоновка
+  4lb.vcxproj -> C:\Users\79229\Desktop\ЦУиМП земцов\4lb\Debug\4lb.exe
